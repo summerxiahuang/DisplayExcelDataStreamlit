@@ -10,3 +10,5 @@ Open cmd and go the directory of the app
 
 type: streamlit run app.py
 
+### The web app looks like this
+![screenshot](https://user-images.githubusercontent.com/63130123/159980232-5a7e6725-3994-4ac2-ae86-e964883645e0.png)
