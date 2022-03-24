@@ -9,3 +9,4 @@ Write the code in any of the code editor
 Open cmd and go the directory of the app
 
 type: streamlit run app.py
+
